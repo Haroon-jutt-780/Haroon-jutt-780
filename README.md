@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Muhammad Haroon
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&width=700&height=50&pause=1000&color=00D8FF&center=true&vcenter=true&lines=Computer+Science+Student;Automation+%26+Scraping+Developer;C%2B%2B+%26+Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&width=900&height=60&pause=1000&color=00D8FF&center=true&vcenter=true&lines=CS+Student+%26+Developer;Automation+%26+Scraping;C%2B%2B+%26+Python+Developer" alt="Typing SVG" />
 </h2>
 
 <p align="center"><b>COMPUTER SCIENCE STUDENT | SOFTWARE DEVELOPER</b></p>
