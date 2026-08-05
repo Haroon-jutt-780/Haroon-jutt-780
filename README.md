@@ -1,16 +1,23 @@
-## Hi there 👋
+---
 
-<!--
-**Haroon-jutt-780/Haroon-jutt-780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haroon-jutt-780&color=007ec6" alt="Profile Views" />
+  <a href="https://github.com/Haroon-jutt-780">
+    <img src="https://img.shields.io/github/followers/Haroon-jutt-780?label=Followers&style=flat&color=181717" alt="Followers" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💭 About Me
+
+> *"Continuous improvement is better than delayed perfection."*
+
+* **Currently Working On:** Web automation tools, Chrome extensions, and data scraping pipelines
+* **Proficient In:** C++, Python, Data Structures & Algorithms, and Web Scraping (Playwright, Scrapy and BeautifulSoup)
+* **Looking to Collaborate On:** Open-source automation scripts, productivity tools, and full-stack utilities
+* **Ask Me About:** C++, web automation, browser extensions, and algorithm optimization
+* **Education:** Computer Science Student at University of Agriculture, Faisalabad (UAF)
+* **Location:** Faisalabad, Pakistan
+
+---
