@@ -1,3 +1,11 @@
+# 👋 Hi there! I'm Muhammad Haroon
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vcenter=true&lines=Computer+Science+Student;Automation+%26+Scraping+Developer;C%2B%2B+%26+Python+Enthusiast" alt="Typing SVG" />
+</h2>
+
+<p align="center"><b>COMPUTER SCIENCE STUDENT | SOFTWARE DEVELOPER</b></p>
+
 ---
 
 <p align="center">
