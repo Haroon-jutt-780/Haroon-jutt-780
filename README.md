@@ -22,7 +22,7 @@
 > *"Continuous improvement is better than delayed perfection."*
 
 * **Currently Working On:** Web automation tools, Chrome extensions, and data scraping pipelines
-* **Proficient In:** C++, Python, Data Structures & Algorithms, and Web Scraping (Playwright, Scrapy and BeautifulSoup)
+* **Proficient In:** Python, C++, Data Structures & Algorithms, and Web Scraping (Playwright, Scrapy and BeautifulSoup)
 * **Looking to Collaborate On:** Open-source automation scripts, productivity tools, and full-stack utilities
 * **Ask Me About:** C++, web automation, browser extensions, and algorithm optimization
 * **Education:** Computer Science Student at University of Agriculture, Faisalabad (UAF)
