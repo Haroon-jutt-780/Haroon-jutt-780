@@ -17,7 +17,7 @@
 
 ---
 
-## 💭 About Me:
+## 💭 About Me
 
 > *"Continuous improvement is better than delayed perfection."*
 
